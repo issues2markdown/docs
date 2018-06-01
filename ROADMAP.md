@@ -2,11 +2,15 @@
 
 ## 0.1.0 (unreleased)
 
+- [ ] issues2markdown/docs : [Support ordering](https://github.com/issues2markdown/docs/issues/4)
+- [ ] issues2markdown/docs : [Support ordering direction](https://github.com/issues2markdown/docs/issues/3)
+- [ ] issues2markdown/docs : [Support for --format to customize the output by hand](https://github.com/issues2markdown/docs/issues/2)
+- [ ] issues2markdown/docs : [Support for --templateFile to customize the output](https://github.com/issues2markdown/docs/issues/1)
 - [x] issues2markdown/cli : [Add support for goreleaser](https://github.com/issues2markdown/cli/issues/51)
-- [ ] issues2markdown/docs : [Support for --templateFile to customize the output](https://github.com/issues2markdown/cli/issues/50)
-- [ ] issues2markdown/docs : [Support for --format to customize the output by hand](https://github.com/issues2markdown/cli/issues/49)
-- [ ] issues2markdown/docs : [Support ordering direction](https://github.com/issues2markdown/cli/issues/48)
-- [ ] issues2markdown/docs : [Support ordering](https://github.com/issues2markdown/cli/issues/47)
+- [x] issues2markdown/cli : [Support for --templateFile to customize the output](https://github.com/issues2markdown/cli/issues/50)
+- [x] issues2markdown/cli : [Support for --format to customize the output by hand](https://github.com/issues2markdown/cli/issues/49)
+- [x] issues2markdown/cli : [Support ordering direction](https://github.com/issues2markdown/cli/issues/48)
+- [x] issues2markdown/cli : [Support ordering](https://github.com/issues2markdown/cli/issues/47)
 - [x] issues2markdown/cli : [Add support for appveyor CI (windows)](https://github.com/issues2markdown/cli/issues/46)
 - [x] issues2markdown/cli : [defaultQuery should be provided by QueryOptions](https://github.com/issues2markdown/cli/issues/37)
 - [x] issues2markdown/cli : [Implement pagination on query issues (get all issues)](https://github.com/issues2markdown/cli/issues/35)
@@ -46,3 +50,5 @@ Before start working on the following, they should be researched and a set of is
 The idea is finished only when all of its issues are closed.
 
 The current ideas are:
+
+*No ideas at this moment*
